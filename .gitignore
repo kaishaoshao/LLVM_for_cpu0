@@ -54,4 +54,4 @@ dkms.conf
 # output
 *output*
 .vscode
-*build*
+build/
