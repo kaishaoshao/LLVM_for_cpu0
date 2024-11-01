@@ -3,6 +3,8 @@
 
 #include "llvm/Demangle/Compiler.h"
 #include "llvm/Demangle/StringView.h"
+#include <stdint.h>
+#include <string>
 #include <array>
 
 class OutputStream;
